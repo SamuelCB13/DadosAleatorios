@@ -13,8 +13,8 @@ function rollDice() {
     die2.classList.add("rotate-animation");
 
     setTimeout(function() {
-        var texts1 = ["Uno", "Dos", "Tres", "Cuatro", "Cinco", "Seis"];
-        var texts2 = ["Uno", "Dos", "Tres", "Cuatro", "Cinco", "Seis"];
+        var texts1 = ["Tocar", "Besar", "Lamer", "Chupar", "Frotar"];
+        var texts2 = ["Tetas", "Chimbo", "Nalga", "Cliptoris", "Vagina"];
 
         var index1 = getRandomIndex(texts1, previousValues.die1);
         var index2 = getRandomIndex(texts2, previousValues.die2);

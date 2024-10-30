@@ -21,9 +21,9 @@ function rollDice() {
     die4.classList.add("rotate-animation");
 
     setTimeout(function() {
-        var texts1 = ["Tocar", "Besar", "Lamer", "Chupar", "Cualquiera", "Meter"];
+        var texts1 = ["Tocar", "Besar", "Lamer", "Chupar", "?", "Meter"];
         var texts2 = ["Tetas", "Nalga", "Vagina", "Cuello", "Parte Baja"];
-        var texts3 = ["Tocar", "Besar", "Lamer", "Chupar", "Cualquiera", "Metan"];
+        var texts3 = ["Tocar", "Besar", "Lamer", "Chupar", "?", "Metan"];
         var texts4 = ["Chimbo", "Pene", "Pito", "Cuello", "Parte Baja"];
 
         var index1 = getRandomIndex(texts1, previousValues.die1);
